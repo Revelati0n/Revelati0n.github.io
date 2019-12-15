@@ -1,37 +1,24 @@
-# Somprasong Intorruk
+# Somprasong Intorruk ( Mos )
+  - 📧 [somprasong.intorruk@gmail.com](mailto:somprasong.intorruk@gmail.com)
+  - 📱 [0823432278](tel:+66823432278)
+  - 📍 [Google Map](https://goo.gl/maps/3PVzJLEEq8CTCfwx6)
 
-You can use the [editor on GitHub](https://github.com/Revelati0n/Revelati0n.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
+  - Bachelor of Science (Information Technology) At Phranakhon Rajabhat University, 2013 - 2017
+  - Master of Science (Information Science) At King Mongkut's Institute of Technology Ladkrabang, 2017 - Now
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experiences 
+  - May - September 2017 Internship at [Intbizth](https://intbizth.com/)
+  - May - September 2018 Teacher Assist (C# Class) at Phranakhon Rajabhat University
 
-### Markdown
+### Experiences programming languages (Basic Level)
+  - PHP
+  - Python
+  - Java
+  - VB.net, ASP.net
+  - C#, C++
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Revelati0n/Revelati0n.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Experiences Web & Tools
+  - WordPress
+  - Codeigniter 
+  - Docker
